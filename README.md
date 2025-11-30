@@ -29,6 +29,6 @@ Telecom_Customer_Churn.ipynb
 
 1730285168-TelecomCustomerChurn.csv
 
-⭐ Output
+**Output**
 
 A trained machine learning model that predicts the probability of customer churn.
